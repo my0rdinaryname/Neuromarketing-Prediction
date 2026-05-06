@@ -2,10 +2,6 @@
 
 A deep learning system that predicts user interest in advertisements using both structured demographic/emotional data and multimodal biosignal + video features.
 
-**Course:** UCS761 - Deep Learning  
-**Institution:** Thapar Institute of Engineering & Technology  
-**Group:** 3C11
-
 ## 📋 Project Overview
 
 This project develops a robust, efficient, and scalable deep learning system for advertisement interest prediction by combining two complementary paradigms:
